@@ -5,7 +5,8 @@ The compiled files necessary for hosting the static website [spencers.dev](https
 # Usage
 
 `dist` - contains the built static website
-`docs` - contains google drive articles
+
+`docs` - contains google drive archive
 
 # Future
 
@@ -14,3 +15,7 @@ In the future I'll upload
 * the script files to automate the entire deployment stack
 
 Also in the future the articles would be natively within the code in some markup language instead of separately via google docs.
+
+# License
+
+[LICENSE](LICENSE)
