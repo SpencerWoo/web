@@ -1,0 +1,702 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spencer Woo</title>
+    <meta name="Description" content="nonsense blog">
+    
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Spencer Woo">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EX9S5Z1D7J"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-EX9S5Z1D7J');
+    </script>
+
+    <!-- generics: classic -->
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="icon" href="/favicon.ico"
+  sizes="16x16 32x32 48x48 64x64">
+
+
+<!-- generics: modern -->
+
+  <link rel="icon" sizes="128x128"
+    href="https://spencers.dev/assets/images/favicons/favicon-128.png">
+
+  <link rel="icon" sizes="196x196"
+    href="https://spencers.dev/assets/images/favicons/favicon-196.png">
+
+
+<!-- iOS -->
+<link rel="mask-icon" color="#ffffff"
+  href="https://spencers.dev/assets/images/favicons/favicon.svg">
+
+
+
+  <link rel="apple-touch-icon" sizes="120x120"
+    href="https://spencers.dev/assets/images/favicons/favicon-120.png">
+
+  <link rel="apple-touch-icon" sizes="152x152"
+    href="https://spencers.dev/assets/images/favicons/favicon-152.png">
+
+  <link rel="apple-touch-icon" sizes="180x180"
+    href="https://spencers.dev/assets/images/favicons/favicon-180.png">
+
+
+<!-- Windows 8 IE 10 -->
+<meta name="msapplication-TileColor"
+  content="#ffffff" />
+<meta name="msapplication-TileImage"
+  content="https://spencers.dev/assets/images/favicons/favicon-144.png" />
+
+<!-- Windows 8.1 + IE11 and above -->
+<meta name="msapplication-config" content="browserconfig.xml" />
+
+<!-- Web App manifest -->
+<link rel="manifest" href="/web.manifest">
+<meta name="theme-color" content="#ffffff">
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Spencer Woo</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/pages/about/">About</a></li>
+      </ul>
+    </header>
+
+    <main>
+      <h1></h1>
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Spencer Woo</title>
+	<subtitle>nonsense blog</subtitle>
+	
+	<link href="https://spencers.dev/feed/feed.xml" rel="self"/>
+	<link href="https://spencers.dev/"/>
+	<updated>2022-12-31T00:00:00Z</updated>
+	<id>https://spencers.dev/</id>
+	<author>
+		<name>Spencer Woo</name>
+		<email>admin@spencers.dev</email>
+	</author>
+	
+	<entry>
+		<title>Richard Cory</title>
+		<link href="https://spencers.dev/posts/nonsense/2009-03-25-richard-cory/"/>
+		<updated>2009-03-25T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2009-03-25-richard-cory/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vTe3N0RpeHnqPcQXu4i2HyvfaVcyRbkHBtW2bB3xhMA-vu_O4IPWZg2G4MgLh4UdxI_cI8CHoHUE1fw/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;
+&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>thanksgiving</title>
+		<link href="https://spencers.dev/posts/nonsense/2010-11-24-thanksgiving/"/>
+		<updated>2010-11-24T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2010-11-24-thanksgiving/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vRSZXwgsxuIfXFE-bqgxzw4TTCFZ6AQJhw_7uXGHRuRoxYwAbFyaQMdRT0XPrnB6ED0xcxUArNxVKjb/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>John F. Kennedy&#39;s Inaugural Address</title>
+		<link href="https://spencers.dev/posts/nonsense/2011-01-19-jfk-inaugural/"/>
+		<updated>2011-01-19T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2011-01-19-jfk-inaugural/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQu5F7Im7tFdNmOiCFHVUe2uZlTye9lBUFYzBMf6L6VWNuiKPUGEGMmCfq06QnYHGeOJMaMGoxguaQr/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Three Types Of Friends</title>
+		<link href="https://spencers.dev/posts/nonsense/2013-07-06-3-friends/"/>
+		<updated>2013-07-06T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2013-07-06-3-friends/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQUivRVIxLivAMQ6Gx8f-BBv5AspjSDHIYprC1ipdGMCz7bIDggUmC6Sj3uTY2pL1wBggxJuORwf6k4/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Moon [o]</title>
+		<link href="https://spencers.dev/posts/christian/2015-04-23-moon/"/>
+		<updated>2015-04-23T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/christian/2015-04-23-moon/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://notapastor.tumblr.com/post/117174712782/moon&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>FRIENDSHIP</title>
+		<link href="https://spencers.dev/posts/blog/2016-01-19-FRIENDSHIP/"/>
+		<updated>2016-01-19T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2016-01-19-FRIENDSHIP/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vR5hV3UdyMF0Tp-uLZ8TsDmG3e8u5nICcJ7DhZ7JfloXS3jXeGh0vclbpl2_uuctKshX989jxFUVErS/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;
+&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Ezekiel 16 [c]</title>
+		<link href="https://spencers.dev/posts/nonsense/2016-04-18-ezekiel-16/"/>
+		<updated>2016-04-18T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2016-04-18-ezekiel-16/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://notapastor.tumblr.com/post/142998442537/ezekiel-16-c&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Bryant</title>
+		<link href="https://spencers.dev/posts/nonsense/2016-07-20-bryant/"/>
+		<updated>2016-07-20T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2016-07-20-bryant/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQd-JIKCInBjfKZylHxTywq4pW91V4zgpUDmQiBhHn9NaLV0jn68bO77H07RF5z3Q6eAb5mKMmhh89R/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Voting</title>
+		<link href="https://spencers.dev/posts/christian/2016-10-14-voting/"/>
+		<updated>2016-10-26T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/christian/2016-10-14-voting/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://notapastor.tumblr.com/post/151816478807/voting&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>This is the best of times, and the worst of times.</title>
+		<link href="https://spencers.dev/posts/christian/2016-10-26-best-of-times/"/>
+		<updated>2016-10-26T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/christian/2016-10-26-best-of-times/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://notapastor.tumblr.com/post/152355989737/this-is-the-best-of-times-and-the-worst-of-times&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>we are butler</title>
+		<link href="https://spencers.dev/posts/nonsense/2017-06-01-wearebutler/"/>
+		<updated>2017-06-01T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2017-06-01-wearebutler/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQA_HmUcrXar95YhQiS1jA1L0IF_hcBNfEjKY7zJbBT7OlUpBkDuj7q-CATy18ttahhpac-Bflz4XhW/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>How to come off as sweet even though you&#39;re a terrible person.</title>
+		<link href="https://spencers.dev/posts/blog/2017-06-30-sweet/"/>
+		<updated>2017-06-30T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2017-06-30-sweet/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQNmaF56hxHjR3Wr-Mgscz4XpRYUY2VUm3c9Q8fytcLPapvvbTdfOwojKMDY1Yz_BZ5pP3xNmSqS1OH/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>A Wild Sheep Chase</title>
+		<link href="https://spencers.dev/posts/nonsense/2017-07-02-a-wild-sheep-chase/"/>
+		<updated>2017-07-02T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2017-07-02-a-wild-sheep-chase/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vTl1ooS4to2lL7GO-6HWLmcqqloxiJHiT8Okf__hGLqgOX2q0crpzHQj9D4ynSIxOjIbs72QP0JrOgk/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Flowers for Orwell</title>
+		<link href="https://spencers.dev/posts/nonsense/2017-07-02-flowers-for-orwell/"/>
+		<updated>2017-07-02T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2017-07-02-flowers-for-orwell/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vSW1fRqhFGL9zbaojfUNOsaub7tNOhLFK6XI_eues2ozQxYZ8xfmyqO9BqrZMNba7zPIYQ6JWNxfIRs/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Cracking The Vault</title>
+		<link href="https://spencers.dev/posts/tech/2018-04-05-keepass/"/>
+		<updated>2018-04-05T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/tech/2018-04-05-keepass/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vSQmJSuBLDtEGuvAVp5GQR4FM-bM0_pEs6ia0tWQ_-X5ZwFUeGQdqZYIXFQlJLSPv9At95cCiOGJPp2/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;
+&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>The Chaos</title>
+		<link href="https://spencers.dev/posts/nonsense/2018-06-04-the-chaos/"/>
+		<updated>2018-06-04T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2018-06-04-the-chaos/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vRmgOQdQviyXaf0AL6mkiZIaYCWNOzrX21quwNHKcPmR3izjSsfDx26HteIxrNRsOZZCmGS3xoeMrr9/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>2_A - Determinism</title>
+		<link href="https://spencers.dev/posts/theory/2018-11-25-determinism/"/>
+		<updated>2018-11-25T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/theory/2018-11-25-determinism/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vSg_-BatcjCtZmuSy9GTY7GffeYU6qoVhR5cqYzhmHHN1OAsJOlcQZQEmgbdLhBcuWYkM3HrYF-xWjT/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>A Scheduling Journey</title>
+		<link href="https://spencers.dev/posts/blog/2019-11-19-scheduling/"/>
+		<updated>2019-11-19T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2019-11-19-scheduling/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vS-4_q_H1T4jocThk_U7QyKM0NUUJ7prmmw6lAqcTuq-uCce_dhlD-P8TnGUJoB88QuGvllTxVL85B9/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Favorite Songs of 2019</title>
+		<link href="https://spencers.dev/posts/media/2019-12-02-songs-19/"/>
+		<updated>2019-12-02T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/media/2019-12-02-songs-19/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vTVW2G1CrzyGpYZyQwzdz6KGU2wzN57TNeaISMA4XkRrrNh4kIhdzQyop9V7bcGFyP4gtjY3npu20aw/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;
+&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>New Year Resolutions</title>
+		<link href="https://spencers.dev/posts/blog/2020-01-10-resolutions/"/>
+		<updated>2020-01-10T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2020-01-10-resolutions/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vSNiCyv-PvV9_X58OyLRFQDx1j-CNMvzivpLvY35E8PKEU4uN0Vy1M4F-S6jhzA17inCF_0SaalW7Td/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;
+&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Wealth - Part 1</title>
+		<link href="https://spencers.dev/posts/init/2020-04-01-wealth-1/"/>
+		<updated>2020-04-01T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/init/2020-04-01-wealth-1/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vRhp2cscKeZh9M735pQZuk-6hcliwSVMNQbbs_mvcZGxO2FISCTd9XiMGOgjtLLewwZuFcPq1qdKJQt/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;
+&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>On Exactitude in Science</title>
+		<link href="https://spencers.dev/posts/nonsense/2020-04-28-exactitude-in-science/"/>
+		<updated>2020-04-28T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2020-04-28-exactitude-in-science/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQeg3TAyENdqW17DtyHClfN_o1vlwdwBFkjF3DE8eGkM2ZPMVtJ3gC-1LASxAAxT7JLxNQxnqyIPHrh/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>The problems with Healthy Gamer GG, Dr. K</title>
+		<link href="https://spencers.dev/posts/blog/2020-05-11-healthygamer/"/>
+		<updated>2020-05-11T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2020-05-11-healthygamer/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vTO6km4-uPiBsvzEVVEGmhG2cjT1lMkT9qC6jd-Fxk7tmiZwvZVeQyhpf7dU2bq0gsw2hc8zkjcs1jJ/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>SARS-CoV-2</title>
+		<link href="https://spencers.dev/posts/blog/2020-05-24-COVID/"/>
+		<updated>2020-05-24T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2020-05-24-COVID/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vRT5d86OgLmuWVyRJWcFrZMmqbFmgWlA8vwGennzf6K4AsC5dOmsGhrrzczF9YX6xcHh0dWHAm37JvT/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>you at every age</title>
+		<link href="https://spencers.dev/posts/nonsense/2020-06-15-banks/"/>
+		<updated>2020-06-15T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2020-06-15-banks/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vRyLDwwnfbbHecLrMKCevDUlQx2iKf7IRhbK2tdab64sPmizohrusJovLNg6pa-dR5prMtQ6mbFBzHC/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>5 Fallacies (that need to stop)</title>
+		<link href="https://spencers.dev/posts/init/2020-06-26-fallacies/"/>
+		<updated>2020-06-26T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/init/2020-06-26-fallacies/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQmU7UYXYOVF7SZgPfANR0OpJNVcnEbzcHEVUZDs_ELDBCZcMYqZgHAuLaYdCrUka7kCct-FnxwcUIH/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>The Catch-22 of Metrics</title>
+		<link href="https://spencers.dev/posts/theory/2020-07-04-metrics/"/>
+		<updated>2020-07-04T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/theory/2020-07-04-metrics/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vRTfaPfoUwlCAoj1ny4StyHCYdBvF5gABuDEMsRMZuZdUKVBQVCqqzx3st2WGyo_D1j93chcBGvv9Kg/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>we got scared</title>
+		<link href="https://spencers.dev/posts/nonsense/2020-07-12-we-got-scared/"/>
+		<updated>2020-07-12T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2020-07-12-we-got-scared/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vTJwmt774mtt0KAJscogBjUyH68K3fTujAjTVq8Hje8g55Y9eJmlZufS93ENv9Sf9WC2G0U4h9iN57u/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Beep! and Byron</title>
+		<link href="https://spencers.dev/posts/nonsense/2020-07-21-beep/"/>
+		<updated>2020-07-21T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2020-07-21-beep/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQOJcmiin8zMkUI6Y80CL9ou6q5q8_nb65nm2mZHxSXipTcLWuypo_EYLw7TQtoQPsU2WGW5fDcl2k5/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Time - Part 1</title>
+		<link href="https://spencers.dev/posts/init/2020-08-14-time-1/"/>
+		<updated>2020-08-14T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/init/2020-08-14-time-1/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vTbutKQNOuuUKiJPCpsBqHV51HIFr0b9yHLrrUkUubLzRmyHTmmEsN9GzYsxRQ-HbJWMogfhl1nlvO1/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>issendai</title>
+		<link href="https://spencers.dev/posts/nonsense/2020-09-04-issendai/"/>
+		<updated>2020-09-04T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2020-09-04-issendai/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vTlrnBUhOigT_gp0fDz4BJt5q9y5X5zkMKMjUS5dA0OkK8nCRA28nZcQykOe1VuCA6_EsVth-dHet8j/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>void / you</title>
+		<link href="https://spencers.dev/posts/nonsense/2020-10-13-void/"/>
+		<updated>2020-10-13T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2020-10-13-void/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vRPIrZZsCgS1iUR9pQprKylbk1sLceT4ZnXxtKt5TdYIz0nXN2qOPzTVXTvbqvo0GR81X8BVMHCpHK4/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Assigned Friends Outcome</title>
+		<link href="https://spencers.dev/posts/nonsense/2020-11-17-assigned-friends/"/>
+		<updated>2020-11-17T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2020-11-17-assigned-friends/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vTRXke6eBnNsVZWTezHZ0oHY1dXACfJMs1RZ0H0yxCcwILtpqnFreaWte_ikArotqYv0qpvPmIEGHNp/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;
+&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Favorite Songs of 2020</title>
+		<link href="https://spencers.dev/posts/media/2020-12-04-songs-20/"/>
+		<updated>2020-12-04T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/media/2020-12-04-songs-20/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQsduy7AGHkMFD6v2qHfw40dDyqovQUW5PjbWpBzFpxzUKA7_as4rFbRWArc6ln7erMaGXFY09Ev6-1/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Alternative COVID Treatments</title>
+		<link href="https://spencers.dev/posts/research/2020-12-14-COVID-treatments/"/>
+		<updated>2020-12-14T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/research/2020-12-14-COVID-treatments/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vTSmtHynbJ7llF_QYNRTWy6TtoNKDd8dJuPBzfUetuv8j6aRlKneKzhm_ELg20ZwiwKGPUdvv-JTpTD/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Come Those Who Are</title>
+		<link href="https://spencers.dev/posts/nonsense/2021-01-03-come-those-who-are/"/>
+		<updated>2021-01-03T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2021-01-03-come-those-who-are/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vTOKlMotyFSeKLtfRCnJjQJxBHUi-qV8Mun_wvWh0yVT82RBTkj3xfwqLByKXKsDyKkbDvfZ8uFINBN/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>DECONSTRUCTION - 1</title>
+		<link href="https://spencers.dev/posts/blog/2021-01-27-decontruction-1/"/>
+		<updated>2021-01-27T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2021-01-27-decontruction-1/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vR_ZVcxFv5Wr5HWBgrqmDgN-9pl3D8JFZDzAcQRskYSE4Fn1-BbDRuzcRG17OT_5T1MAo-dm7p22N7z/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Made In Heights</title>
+		<link href="https://spencers.dev/posts/media/2021-04-25-made-in-heights/"/>
+		<updated>2021-04-25T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/media/2021-04-25-made-in-heights/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQ8_TgoUyac_cL9DdJjs0nBnHklb0DtDyeXWHZti84JkpIdDwjxvWgx02YCfeH9xJlh-GHKPTaKTOLA/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Language Modifications</title>
+		<link href="https://spencers.dev/posts/blog/2021-09-25-language-modifications/"/>
+		<updated>2021-09-25T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2021-09-25-language-modifications/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vRIJr-h4X5s3dnJ73YjEVl2j-RdYNrdwYLQVkLloOTOSa52oR1xH99yxCIM2uyMg4njWubxfUmFBNt2/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Book Recommendations</title>
+		<link href="https://spencers.dev/posts/media/2020-12-26-books/"/>
+		<updated>2021-09-25T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/media/2020-12-26-books/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vR27hJpDhlf7BuCZX0ld6O-gI7RUcHGi8jAUmZ-6ifITMfSLGa6anE6CDBskLBDVaJqrJ7AKsO_Fk48/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Honesty</title>
+		<link href="https://spencers.dev/posts/blog/2021-09-30-honesty/"/>
+		<updated>2021-09-30T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2021-09-30-honesty/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vTz2tMq-Ep5wdR8EM8OEKvs2sqyzdYH-xLr6Zglr6XQGualdHFkqUCt-j98bkxh9EixZEePc6IVGt40/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Linearity (Prerequisites)</title>
+		<link href="https://spencers.dev/posts/theory/2021-11-07-linearity/"/>
+		<updated>2021-11-07T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/theory/2021-11-07-linearity/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQ99Go1l1OuqkMccQ0WPkfMkgTZ2cuq6KYptRICmHrBCnkpLWHK1DXMmt-ahyWAIASnj41JyeMZ4X9m/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>How We Learn - An Introduction to Abstractions</title>
+		<link href="https://spencers.dev/posts/theory/2021-12-31-abstractions1/"/>
+		<updated>2021-12-31T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/theory/2021-12-31-abstractions1/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vRk90TDI8--yudjnOcxGtSxtN_GQt7plhgBm_MWOy0RFupryCNO3LVji0eJ5dJQpX0WrlPECVb3Z5bq/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Time - Part 2</title>
+		<link href="https://spencers.dev/posts/init/2022-01-05-time-2/"/>
+		<updated>2022-01-15T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/init/2022-01-05-time-2/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQSza1w04plYdVt3jKAkEW7vQh5zXNT8LFoniAtIHLInpmPSNLKYdPm0tFcSWmVJvOLdiMVil7vym5W/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Bojack Horseman is my vote for the greatest show of all time</title>
+		<link href="https://spencers.dev/posts/media/2022-01-17-bojack-greatest/"/>
+		<updated>2022-01-17T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/media/2022-01-17-bojack-greatest/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vSke-2UHC4lt1B2WRdLw7CGBDDL2FNPYN4rBrggOPSPquMw3ezckXwxJ6DmEv-8PwSQmRBpybgH0U8c/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Validation and Accomplishments</title>
+		<link href="https://spencers.dev/posts/blog/2022-01-22-validation-and-accomplishments/"/>
+		<updated>2022-01-22T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2022-01-22-validation-and-accomplishments/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vRHLGW0nxQ7c4zleYf9cBY4tTbZswyU2cG-zZ68B4gREwAb2gDa9G7ts_0VE6C4eO2vPP02kTsRjbZB/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Personality Proxies</title>
+		<link href="https://spencers.dev/posts/blog/2022-02-17-personality-proxies/"/>
+		<updated>2022-02-17T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2022-02-17-personality-proxies/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vTSrlAgpwFkFWfZxu4LfBwhzi3xMKFVkPi37cOvLZE4aMEJLc97uzmynE-hTQVHVykIB8XsiQrQcY3x/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Online Dating is a fun time (if you&#39;re a masochist)</title>
+		<link href="https://spencers.dev/posts/blog/2022-02-16-online-dating/"/>
+		<updated>2022-03-30T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2022-02-16-online-dating/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vR541rmivWhUvnbwOYFhqgmjvfl7rxXvh_5lDqjgLDVZatD1z1xv8Zaju5FSfPPd_240NI4D71haNMr/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Suicide and Depression</title>
+		<link href="https://spencers.dev/posts/blog/2022-03-30-sucide-and-depression/"/>
+		<updated>2022-03-30T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2022-03-30-sucide-and-depression/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQqPVFg3vBuRJuc-8xe7R7w-tN2jPv8Mwn2DMsrHhynKazHyZPS7zf1jQL2Bsr273pdzX7iwdPYA7Ek/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Blog Domain</title>
+		<link href="https://spencers.dev/posts/tech/2022-03-30-blog-domain/"/>
+		<updated>2022-03-30T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/tech/2022-03-30-blog-domain/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vRFeFDcz_mCmOi94Y9Or-sTFUm_QVeN_divfO_wMa7pnNAO3dxfycF_Ykd3u8l7IZLmNeEIXI1Bz0PO/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Personality Development Roadmap</title>
+		<link href="https://spencers.dev/posts/init/2022-04-04-personality-development-roadmap/"/>
+		<updated>2022-04-04T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/init/2022-04-04-personality-development-roadmap/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQO2j28kCsuthBaPgAfTV3BZ0hqD8rtYlDF-U2nbp8SE2bMAA9-CDCvifkpO3omNSPkuhySsxeLeim5/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Mizkif Cheating Drama</title>
+		<link href="https://spencers.dev/posts/blog/2022-04-27-mizkif/"/>
+		<updated>2022-04-27T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2022-04-27-mizkif/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQGrM-KTpIJyvtLOjAUZVnTu5aCg0iyFD99xNmBNiA0n9qpTtCTXCxBp-dQeb3IUITEAcg4doV7sua-/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Secular Misogi</title>
+		<link href="https://spencers.dev/posts/nonsense/2022-05-23-secular-misogi/"/>
+		<updated>2022-05-23T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2022-05-23-secular-misogi/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vTKgCSpbbEkdC10LqUeSsDQUok3bWdQglYLXJquv6NaK0sweyGO-L8jh8aebOXkNtbHBHWZxcdXDH4t/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Acclimation (Subjectivity)</title>
+		<link href="https://spencers.dev/posts/theory/2022-05-24-acclimation/"/>
+		<updated>2022-05-24T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/theory/2022-05-24-acclimation/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQssOHBalRBCe4o738QIw6PehfYrjxDML6707koJwKxDKUf4Aar7lmQzKaO_SHfJqGT5szbRCbPIE0o/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>i could improve the world or i could simply go to bed</title>
+		<link href="https://spencers.dev/posts/nonsense/2022-06-01-icouldimprovetheworldor/"/>
+		<updated>2022-06-01T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2022-06-01-icouldimprovetheworldor/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vSjKZcVYoyT41kOwTeiUbSdZCZrXVwnFdPMcraYEbs-GGWLTwxbsZJh3j3VQOLAwR17MQ-eIfqHcAs6/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>DIMENSIONS</title>
+		<link href="https://spencers.dev/posts/theory/2022-06-13-DIMENSIONS/"/>
+		<updated>2022-06-13T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/theory/2022-06-13-DIMENSIONS/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vTRHlDk6JSw9aGwgcFTBtGgtyo70q5eJjrgG_1r5tmx-g1WQInjKMlrzuIa1y_sla_11gCrht-JhDFY/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>to roe or to wade</title>
+		<link href="https://spencers.dev/posts/nonsense/2022-06-29-roe-wade/"/>
+		<updated>2022-06-29T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2022-06-29-roe-wade/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vScqrhHbhI5YqstrUu6DMJY_v2kaWmAIfk04JVGywI7BE-srdVx4HciXWBsiH5h1JPJFkxwyNPFV4YZ/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Book Review</title>
+		<link href="https://spencers.dev/posts/media/2022-08-19-book-review/"/>
+		<updated>2022-08-19T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/media/2022-08-19-book-review/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQR9KXuwuvvbCOyGObrC27tGzW3Hh-8Npkmk42ysSJeawYunt1WtFO_bI6Bz6gvMjcIGgxkt5-Y2glv/pub?embedded=true&quot; style=&quot;border: none; width: 90vw; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>my takes are hotter than urs</title>
+		<link href="https://spencers.dev/posts/blog/2022-08-21-my-takes-are-hotter/"/>
+		<updated>2022-08-21T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2022-08-21-my-takes-are-hotter/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vTrdOaC4DpyKFsYq87_1ruBkfVLLUf-jSavfdAYs28DMuriuftT0_z7QjS3DRImnWRWft1ydo5W46LT/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>in this terrifying world, all we have are the connections that we make</title>
+		<link href="https://spencers.dev/posts/nonsense/2022-09-11-in-this-terrifying-world/"/>
+		<updated>2022-09-11T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/nonsense/2022-09-11-in-this-terrifying-world/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQMOlJzEed9jpx0SiG-8mkFIfLs6DcDzrxrfNxwyUEMB3-cF35dXpqy8H5kz5fCCN6sFoPR3ih8snhu/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>mini takes</title>
+		<link href="https://spencers.dev/posts/blog/2022-09-27-mini-takes/"/>
+		<updated>2022-09-27T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2022-09-27-mini-takes/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vRztJ-krm_wDg_jYfN9fI2knKssoNYUWlnWgWlaQRI4fvRtn371GcL3OJr4CgCukYhy-MpiXhDHtuM7/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Book Review 2</title>
+		<link href="https://spencers.dev/posts/media/2022-11-21-book-review-2/"/>
+		<updated>2022-11-21T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/media/2022-11-21-book-review-2/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQq9dqaUcGUanjIV3i_-qVN3fWCuT7bOsusTp8ukvE8lR1yI-WfHqKiB8QLL1bMhdL76j0MKXyLxyuL/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Favorite Songs of 2022</title>
+		<link href="https://spencers.dev/posts/media/2022-11-21-songs-22/"/>
+		<updated>2022-11-21T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/media/2022-11-21-songs-22/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vSMuCavIFqDJ37avwnnT_7cuWfE8hwPpHAGdkIGEIW25hga0nbpxV77iCg7KzWUh-uKVNYPc0BLAb_h/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Tech Bugs</title>
+		<link href="https://spencers.dev/posts/tech/2022-11-21-tech-bugs/"/>
+		<updated>2022-11-22T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/tech/2022-11-21-tech-bugs/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vR4EgjafIm-kxCYHiYfH-7JnO_t1t3LCH_eImOIHvZu6yeSZxHHVe-mG6aom6Jp36ObTY1EiGpRMsuR/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Philadelphia</title>
+		<link href="https://spencers.dev/posts/blog/2022-12-11-philadelphia/"/>
+		<updated>2022-12-11T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2022-12-11-philadelphia/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vRr06Zu5qdoajuT2q_-sKnO1-df4lkS5yE6HKSJdWUTUgSJExEDRGrSSHvWb-JzRxSmcFVvLM7ObDED/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Chess Journey</title>
+		<link href="https://spencers.dev/posts/blog/2022-12-31-chess/"/>
+		<updated>2022-12-31T00:00:00Z</updated>
+		<id>https://spencers.dev/posts/blog/2022-12-31-chess/</id>
+		<content type="html">&lt;body style=&quot;margin:0&quot;&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQtCwkTXXXY5JODXOK_2dpp2Mel5CFYBqbGdbqt_2VmuDpF8UCIShryg3KyI6OmQoH5t2L5dDEDgZeL/pub?embedded=true&quot; style=&quot;border: none; width: 80%; height: 80vh&quot;&gt;&lt;/iframe&gt;&lt;/body&gt;</content>
+	</entry>
+</feed>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /feed/feed.xml -->
+  </body>
+</html>

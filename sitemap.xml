@@ -1,0 +1,490 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spencer Woo</title>
+    <meta name="Description" content="nonsense blog">
+    
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Spencer Woo">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EX9S5Z1D7J"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-EX9S5Z1D7J');
+    </script>
+
+    <!-- generics: classic -->
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="icon" href="/favicon.ico"
+  sizes="16x16 32x32 48x48 64x64">
+
+
+<!-- generics: modern -->
+
+  <link rel="icon" sizes="128x128"
+    href="https://spencers.dev/assets/images/favicons/favicon-128.png">
+
+  <link rel="icon" sizes="196x196"
+    href="https://spencers.dev/assets/images/favicons/favicon-196.png">
+
+
+<!-- iOS -->
+<link rel="mask-icon" color="#ffffff"
+  href="https://spencers.dev/assets/images/favicons/favicon.svg">
+
+
+
+  <link rel="apple-touch-icon" sizes="120x120"
+    href="https://spencers.dev/assets/images/favicons/favicon-120.png">
+
+  <link rel="apple-touch-icon" sizes="152x152"
+    href="https://spencers.dev/assets/images/favicons/favicon-152.png">
+
+  <link rel="apple-touch-icon" sizes="180x180"
+    href="https://spencers.dev/assets/images/favicons/favicon-180.png">
+
+
+<!-- Windows 8 IE 10 -->
+<meta name="msapplication-TileColor"
+  content="#ffffff" />
+<meta name="msapplication-TileImage"
+  content="https://spencers.dev/assets/images/favicons/favicon-144.png" />
+
+<!-- Windows 8.1 + IE11 and above -->
+<meta name="msapplication-config" content="browserconfig.xml" />
+
+<!-- Web App manifest -->
+<link rel="manifest" href="/web.manifest">
+<meta name="theme-color" content="#ffffff">
+
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Spencer Woo</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/pages/about/">About</a></li>
+      </ul>
+    </header>
+
+    <main>
+      <h1></h1>
+
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2009-03-25-richard-cory/</loc>
+    <lastmod>2009-03-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2010-11-24-thanksgiving/</loc>
+    <lastmod>2010-11-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2011-01-19-jfk-inaugural/</loc>
+    <lastmod>2011-01-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2013-07-06-3-friends/</loc>
+    <lastmod>2013-07-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/christian/2015-04-23-moon/</loc>
+    <lastmod>2015-04-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2016-01-19-FRIENDSHIP/</loc>
+    <lastmod>2016-01-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2016-04-18-ezekiel-16/</loc>
+    <lastmod>2016-04-18</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2016-07-20-bryant/</loc>
+    <lastmod>2016-07-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/christian/2016-10-14-voting/</loc>
+    <lastmod>2016-10-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/christian/2016-10-26-best-of-times/</loc>
+    <lastmod>2016-10-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2017-06-01-wearebutler/</loc>
+    <lastmod>2017-06-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2017-06-30-sweet/</loc>
+    <lastmod>2017-06-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2017-07-02-a-wild-sheep-chase/</loc>
+    <lastmod>2017-07-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2017-07-02-flowers-for-orwell/</loc>
+    <lastmod>2017-07-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/tech/2018-04-05-keepass/</loc>
+    <lastmod>2018-04-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2018-06-04-the-chaos/</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/theory/2018-11-25-determinism/</loc>
+    <lastmod>2018-11-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2019-11-19-scheduling/</loc>
+    <lastmod>2019-11-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/media/2019-12-02-songs-19/</loc>
+    <lastmod>2019-12-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2020-01-10-resolutions/</loc>
+    <lastmod>2020-01-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/init/2020-04-01-wealth-1/</loc>
+    <lastmod>2020-04-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2020-04-28-exactitude-in-science/</loc>
+    <lastmod>2020-04-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2020-05-11-healthygamer/</loc>
+    <lastmod>2020-05-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2020-05-24-COVID/</loc>
+    <lastmod>2020-05-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2020-06-15-banks/</loc>
+    <lastmod>2020-06-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/init/2020-06-26-fallacies/</loc>
+    <lastmod>2020-06-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/theory/2020-07-04-metrics/</loc>
+    <lastmod>2020-07-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2020-07-12-we-got-scared/</loc>
+    <lastmod>2020-07-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2020-07-21-beep/</loc>
+    <lastmod>2020-07-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/init/2020-08-14-time-1/</loc>
+    <lastmod>2020-08-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2020-09-04-issendai/</loc>
+    <lastmod>2020-09-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2020-10-13-void/</loc>
+    <lastmod>2020-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2020-11-17-assigned-friends/</loc>
+    <lastmod>2020-11-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/media/2020-12-04-songs-20/</loc>
+    <lastmod>2020-12-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/research/2020-12-14-COVID-treatments/</loc>
+    <lastmod>2020-12-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2021-01-03-come-those-who-are/</loc>
+    <lastmod>2021-01-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2021-01-27-decontruction-1/</loc>
+    <lastmod>2021-01-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/media/2021-04-25-made-in-heights/</loc>
+    <lastmod>2021-04-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/</loc>
+    <lastmod>2021-08-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/page-list/</loc>
+    <lastmod>2021-08-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/tags/</loc>
+    <lastmod>2021-08-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/tags/blog/</loc>
+    <lastmod>2021-08-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/tags/personality/</loc>
+    <lastmod>2021-08-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/tags/journey/</loc>
+    <lastmod>2021-08-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/tags/nonsense/</loc>
+    <lastmod>2021-08-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/tags/init/</loc>
+    <lastmod>2021-08-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/tags/media/</loc>
+    <lastmod>2021-08-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/tags/tech/</loc>
+    <lastmod>2021-08-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/tags/research/</loc>
+    <lastmod>2021-08-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/tags/christian/</loc>
+    <lastmod>2021-08-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/tags/theory/</loc>
+    <lastmod>2021-08-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2021-09-25-language-modifications/</loc>
+    <lastmod>2021-09-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/media/2020-12-26-books/</loc>
+    <lastmod>2021-09-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2021-09-30-honesty/</loc>
+    <lastmod>2021-09-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/theory/2021-11-07-linearity/</loc>
+    <lastmod>2021-11-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/theory/2021-12-31-abstractions1/</loc>
+    <lastmod>2021-12-31</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/init/2022-01-05-time-2/</loc>
+    <lastmod>2022-01-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/media/2022-01-17-bojack-greatest/</loc>
+    <lastmod>2022-01-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2022-01-22-validation-and-accomplishments/</loc>
+    <lastmod>2022-01-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2022-02-17-personality-proxies/</loc>
+    <lastmod>2022-02-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2022-02-16-online-dating/</loc>
+    <lastmod>2022-03-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2022-03-30-sucide-and-depression/</loc>
+    <lastmod>2022-03-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/tech/2022-03-30-blog-domain/</loc>
+    <lastmod>2022-03-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/init/2022-04-04-personality-development-roadmap/</loc>
+    <lastmod>2022-04-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2022-04-27-mizkif/</loc>
+    <lastmod>2022-04-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2022-05-23-secular-misogi/</loc>
+    <lastmod>2022-05-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/theory/2022-05-24-acclimation/</loc>
+    <lastmod>2022-05-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2022-06-01-icouldimprovetheworldor/</loc>
+    <lastmod>2022-06-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/theory/2022-06-13-DIMENSIONS/</loc>
+    <lastmod>2022-06-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2022-06-29-roe-wade/</loc>
+    <lastmod>2022-06-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/media/2022-08-19-book-review/</loc>
+    <lastmod>2022-08-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2022-08-21-my-takes-are-hotter/</loc>
+    <lastmod>2022-08-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/nonsense/2022-09-11-in-this-terrifying-world/</loc>
+    <lastmod>2022-09-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/pages/about/</loc>
+    <lastmod>2022-09-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2022-09-27-mini-takes/</loc>
+    <lastmod>2022-09-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/media/2022-11-21-book-review-2/</loc>
+    <lastmod>2022-11-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/media/2022-11-21-songs-22/</loc>
+    <lastmod>2022-11-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/tech/2022-11-21-tech-bugs/</loc>
+    <lastmod>2022-11-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2022-12-11-philadelphia/</loc>
+    <lastmod>2022-12-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spencers.dev/posts/blog/2022-12-31-chess/</loc>
+    <lastmod>2022-12-31</lastmod>
+  </url>
+</urlset>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /sitemap.xml -->
+  </body>
+</html>
