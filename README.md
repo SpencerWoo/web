@@ -4,7 +4,7 @@ The compiled files for the static website [spencers.dev](https://spencers.dev/)
 
 # Usage
 
-Static website that can be deployed with any server.
+Static website that can be hosted with any server.
 
 # Future
 
